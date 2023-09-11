@@ -1,10 +1,8 @@
-Optimization-of-Energy-Consumption-Using-AI/ML
-==============================
+# Optimization-of-Energy-Consumption-Using-AI/ML
 
 Optimization of Energy Consumption using AI/ML: A sustainable approach to resource management.
 
-Project Organization
-------------
+## Project Organization
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -51,7 +49,12 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
+---
 
---------
+## Download the dataset here
+
+Since the dataset exceeds the github filesize limit you can access the dataset here 👇
+
+<p><a href="https://datadryad.org/stash/dataset/doi:10.7941/D1N33Q"> A three-year building operational performance dataset for informing energy efficiency </a></p>
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
