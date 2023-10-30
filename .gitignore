@@ -1,4 +1,4 @@
 data/raw/
 /models
 notebooks/Training/LightGBM/
-reports.pdf
+/reports/Paper/
